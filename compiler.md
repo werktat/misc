@@ -1,0 +1,48 @@
+# Compiler
+
+* [Parsing in JavaScript: all the tools and libraries you can use](https://news.ycombinator.com/item?id=27264777)
+* [Building Parsers With Java - Javascript edition](https://github.com/kybernetikos/Javathcript/blob/gh-pages/source/BPWJs.js)
+* [Principled Procedural Parsing (2019)](https://lobste.rs/s/bei7cp/principled_procedural_parsing_2019)
+* [Resources for Amateur Compiler Writers](https://news.ycombinator.com/item?id=26925314)
+* [Don’t Use ISO/IEC 14977 Extended Backus-Naur Form](https://news.ycombinator.com/item?id=19558838)
+* [McKeeman Form](https://www.crockford.com/mckeeman.html)
+* [Learn C and build your own Lisp (2014)](https://news.ycombinator.com/item?id=27598424)
+* [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+* [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://news.ycombinator.com/item?id=23740655)
+* [Stack Based Virtual Machines (2015)](https://news.ycombinator.com/item?id=25550776)
+* [Let's Build a Compiler (1995)](https://news.ycombinator.com/item?id=19890918)
+* [PEG Parsers](https://news.ycombinator.com/item?id=20502032)
+* [A Brief & Brisk Overview of Compiler Architecture](https://lobste.rs/s/505sps/brief_brisk_overview_compiler)
+* [Building Fast Interpreters in Rust](https://news.ycombinator.com/item?id=19302262)
+* [Understanding Parser Combinators (2015)](https://news.ycombinator.com/item?id=18837201)
+* [Bytecode compilers and interpreters](https://news.ycombinator.com/item?id=18821475)
+* [Small-C](https://news.ycombinator.com/item?id=18683088)
+* [Home-grown bytecode interpreters](https://lobste.rs/s/mj2k6j/home_grown_bytecode_interpreters)
+* [A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata](https://news.ycombinator.com/item?id=19225895)
+* [A meta approach to implementing programming languages (2018)](https://news.ycombinator.com/item?id=19238995)
+* [Dreaming of a parser generator](https://blog.adamant-lang.org/2019/dreaming-of-a-parser-generator/)
+* [Writing parsers like it is 2017](https://news.ycombinator.com/item?id=15016061)
+* [Toolchains](https://www.cambus.net/diving-into-toolchains/)
+* [Linker](https://briancallahan.net/blog/20210609.html)
+* [Linker and loaders](https://www.iecc.com/linker/)
+* [Ohm, a library and language for building parsers, interpreters, compilers](https://github.com/harc/ohm)
+
+## Introduction
+
+* [Introduction to Parsers](https://medium.com/@chetcorcos/introduction-to-parsers-644d1b5d7f3d)
+* [Languages that compile to Javascript](https://www.reddit.com/r/javascript/comments/61kz8t/creating_a_compiletojs_language/)
+* [JavaScript Parsing Libraries Benchmark](https://sap.github.io/chevrotain/performance/)
+* [Re2C](https://news.ycombinator.com/item?id=19280499)
+* [Compiler basics](http://notes.eatonphil.com/compiler-basics-llvm.html)
+ 
+## Wirth Languages
+
+* [Nim compiler - Pascal source code](https://news.ycombinator.com/item?id=25242926)
+* [Pas6502 – Object Pascal dialect compiler to 6502](https://news.ycombinator.com/item?id=22747995)
+* [An Oberon-07 compiler for Intel 64 (AMD64) architecture](https://github.com/congdm/Patchouli-Compiler)
+* [Pascal-S](http://www.moorecad.com/standardpascal/pascals.html)
+* [PL/0](http://www.moorecad.com/standardpascal/plzero.pas)
+* [Oberon-0](https://github.com/joycode/oberon-0)
+* [Oberon-0](https://www.inf.ethz.ch/personal/wirth/CompilerConstruction/index.html)
+* [Oberon-2](https://pdfs.semanticscholar.org/7246/7751de827a99d8273e2290fb9c7586e50557.pdf)
+* [Oberon-07](https://www.inf.ethz.ch/personal/wirth/Oberon/Oberon07.Report.pdf)
